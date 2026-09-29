@@ -2,6 +2,6 @@
 
 integrantes:
 
-Daniel Salgado Mazo
-Juan David Castro
+Daniel Salgado Mazo//
+Juan David Castro//
 Duvan Pinilla
